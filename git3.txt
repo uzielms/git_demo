@@ -1,2 +1,8 @@
 terceiro teste
 nova linha 16/09/2022 - 16h28
+
+Caminho servidor
+/home/uziel.silva/servidor/
+
+Nome do repositório remoto
+NFS
